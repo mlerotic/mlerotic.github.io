@@ -16,19 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MANTiS - Multivariate ANalysis Tool for Spectromicroscopy"
+title                    : "MANTIS - Multivariate ANalysis Tool for Spectromicroscopy"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mirna Lerotic"
-description              : "
-MANTiS is Multivariate ANalysis Tool for Spectromicroscopy
-a free and open source cross-platform tool developed in Python for spectromicroscopy data analysis by 2nd Look Consulting."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "MANTiS is Multivariate ANalysis Tool for Spectromicroscopy a free and open source cross-platform tool developed in Python for spectromicroscopy data analysis."
+name                     : "Mantis"
+url                      : "http://spectromicroscopy.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Mantis_logo_512.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "MANTIS - Multivariate ANalysis Tool for Spectromicroscopy"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -96,51 +94,34 @@ analytics:
 # Site Author
 author:
   name             : "Mantis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
+  avatar           : "/assets/images/Mantis_logo_512.png"
+  bio              : "Open source cross-platform tool developed in Python for spectromicroscopy data analysis."
   location         : #"Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:mirna@2ndlookconsulting.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "http://spectromicroscopy.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/mlerotic/spectromicroscopy"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mirna@2ndlookconsulting.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://spectromicroscopy.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/mlerotic/spectromicroscopy"
 
 
 # Reading Files
@@ -272,12 +253,16 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
+      header:
+       image: /assets/images/Mantis_header.png #the image at the top of the page
+
+
