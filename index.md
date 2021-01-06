@@ -16,10 +16,12 @@ Data preprocessing: alignment, normalization...<br/>
 Principal component analysis (PCA).<br/>
 Cluster analysis for classifying pixels according to spectral similarity.<br/>
 SVD for composition map calculation.<br/>
-Peak identifier.<br/>
-Xray peak fitting.<br/>
-Non-negative matrix approximation (NNMA) analysis.<br/>
+Peak identifier and Xray peak fitting.<br/>
+NNMA analysis.<br/>
 Tomographic reconstruction with Compressed Sensing."
+    url: "https://github.com/mlerotic/spectromicroscopy/wiki"
+    btn_label: "Documentation"
+    btn_class: "btn--primary"
 
   - image_path: #/assets/images/code.png
     title: "Download"
@@ -37,18 +39,18 @@ Mac OS<br>
 GNU/Linux<br>
 [mantis-2.3.02-x86_64](http://spectromicroscopy.com/downloads-mantis-2.3.02-x86_64.php)<br>
 [mantis-2.3.02-i386](http://spectromicroscopy.com/downloads-mantis-2.3.02-i386.php)"
-
   - image_path: #/assets/splash/feat1-3.jpg
     title: "Code Repository"
-    excerpt: "New version Python 3 version of Mantis is available on Github."
+    excerpt: "New Python 3 version of Mantis is available on Github."
     url: "https://github.com/mlerotic/spectromicroscopy"
     btn_label: "Mantis on Github"
     btn_class: "btn--primary"
+
 ---
 {% include feature_row %}
 
 ## About
-MANTiS was developed by [2nd Look Consulting](http://2ndlookconsulting.com/) with the support from [Argonne National Laboratory](https://www.anl.gov/), [The Advanced Photon Source](https://www.aps.anl.gov/), [Diamond Light Source](https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I08/Software-for-data-analysis/) and [McMaster University](https://www.mcmaster.ca/) and contributions from Benjamin Watts \([Paul Scherrer Institute](https://www.psi.ch/en)\) and Jan-David Förster \([Max Planck Institute for Chemistry](https://www.mpic.de/2285/en)\).
+MANTiS was developed by [2nd Look Consulting](http://2ndlookconsulting.com/) with the support from [Argonne National Laboratory](https://www.anl.gov/), [The Advanced Photon Source](https://www.aps.anl.gov/), [Diamond Light Source](https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I08/Software-for-data-analysis/) and [McMaster University](https://www.mcmaster.ca/) and contributions from Benjamin Watts \([Paul Scherrer Institute](https://www.psi.ch/en)\) and Jan-David Förster \([Max Planck Institute for Chemistry](https://www.mpic.de/person/50054/4673246)\).
 
 
 ## References

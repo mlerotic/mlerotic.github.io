@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MANTIS - Multivariate ANalysis Tool for Spectromicroscopy"
+title                    : "MANTiS - Multivariate ANalysis Tool for Spectromicroscopy"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 description              : "MANTiS is Multivariate ANalysis Tool for Spectromicroscopy a free and open source cross-platform tool developed in Python for spectromicroscopy data analysis."
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Mantis_logo_512.png"
-masthead_title           : "MANTIS - Multivariate ANalysis Tool for Spectromicroscopy"
+masthead_title           : "MANTiS - Multivariate ANalysis Tool for Spectromicroscopy"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
