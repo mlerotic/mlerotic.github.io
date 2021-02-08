@@ -19,7 +19,7 @@ SVD for composition map calculation.<br/>
 Peak identifier and Xray peak fitting.<br/>
 NNMA analysis.<br/>
 Tomographic reconstruction with Compressed Sensing."
-    url: "https://github.com/mlerotic/spectromicroscopy/wiki"
+    url: "https://docs.spectromicroscopy.com/"
     btn_label: "Documentation"
     btn_class: "btn--primary"
 
@@ -27,18 +27,18 @@ Tomographic reconstruction with Compressed Sensing."
     title: "Download"
     excerpt: "
 	Windows<br>
-[mantis-2.3.02.amd64.exe](http://spectromicroscopy.com/downloads-mantis-2.3.02.amd64.php)<br>
-[mantis-2.3.02.win32.exe](http://spectromicroscopy.com/downloads-mantis-2.3.02.win32.php)<br>
+[mantis-2.3.02.amd64.exe](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02.amd64.exe)<br>
+[mantis-2.3.02.win32.exe](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02.win32.exe)<br>
 
 Mac OS<br>
-[mantis-2.3.02-10.11.ElCapitan-x86_64.app.zip](http://spectromicroscopy.com/downloads-mantis-2.3.02-10.11.ElCapitan-x86_64.app.zip.php)<br>
-[mantis-2.3.02-10.10.Yosemite-x86_64.app.zip](http://spectromicroscopy.com/downloads-mantis-2.3.02-10.10.Yosemite-x86_64.app.zip.php)<br>
-[mantis-2.3.02-10.9.Maverics-x86_64.app.zip](http://spectromicroscopy.com/downloads-mantis-2.3.02-10.9.Maverics-x86_64.app.zip.php)<br>
-[mantis-2.3.02-10.8.MtnLion-x86_64.app.zip](http://spectromicroscopy.com/downloads-mantis-2.3.02-10.8.MtnLion-x86_64.app.zip.php)<br>
+[mantis-2.3.02-10.11.ElCapitan-x86_64.app.zip](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02-10.11.ElCapitan-x86_64.app.zip)<br>
+[mantis-2.3.02-10.10.Yosemite-x86_64.app.zip](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02-10.10.Yosemite-x86_64.app.zip)<br>
+[mantis-2.3.02-10.9.Maverics-x86_64.app.zip](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02-10.9.Maverics-x86_64.app.zip)<br>
+[mantis-2.3.02-10.8.MtnLion-x86_64.app.zip](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02-10.8.MntLion-x86_64.app.zip)<br>
 
 GNU/Linux<br>
-[mantis-2.3.02-x86_64](http://spectromicroscopy.com/downloads-mantis-2.3.02-x86_64.php)<br>
-[mantis-2.3.02-i386](http://spectromicroscopy.com/downloads-mantis-2.3.02-i386.php)"
+[mantis-2.3.02-x86_64](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02.x86_64)<br>
+[mantis-2.3.02-i386](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02-i386)"
   - image_path: #/assets/splash/feat1-3.jpg
     title: "Code Repository"
     excerpt: "New Python 3 version of Mantis is available on Github."
