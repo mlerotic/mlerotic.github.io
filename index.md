@@ -26,6 +26,8 @@ Tomographic reconstruction with Compressed Sensing."
   - image_path: #/assets/images/code.png
     title: "Download"
     excerpt: "
+	Mantis is available via PyPi!<br> [https://pypi.org/project/mantis-xray/](https://pypi.org/project/mantis-xray/)<br><br>
+	Older versions are available as binaries:<br>
 	Windows<br>
 [mantis-2.3.02.amd64.exe](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02.amd64.exe)<br>
 [mantis-2.3.02.win32.exe](https://github.com/mlerotic/spectromicroscopy/releases/download/2.3.02/mantis-2.3.02.win32.exe)<br>
