@@ -52,7 +52,7 @@ GNU/Linux<br>
 {% include feature_row %}
 
 ## About
-MANTiS was developed by [2nd Look Consulting](http://2ndlookconsulting.com/) with the support from [Argonne National Laboratory](https://www.anl.gov/), [The Advanced Photon Source](https://www.aps.anl.gov/), [Diamond Light Source](https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I08/Software-for-data-analysis/) and [McMaster University](https://www.mcmaster.ca/) and contributions from Benjamin Watts \([Paul Scherrer Institute](https://www.psi.ch/en)\) and Jan-David Förster \([Max Planck Institute for Chemistry](https://www.mpic.de/person/50054/4673246)\).
+MANTiS was developed by [2nd Look Consulting](http://2ndlookconsulting.com/) with the support from [Argonne National Laboratory](https://www.anl.gov/), [The Advanced Photon Source](https://www.aps.anl.gov/), [Diamond Light Source](https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I08/Software-for-data-analysis/) and [McMaster University](https://www.mcmaster.ca/) and contributions from Benjamin Watts \([Paul Scherrer Institute](https://www.psi.ch/en)\) and Jan-David Förster \([Leibniz Institute for Tropospheric Research](https://www.tropos.de/)\).
 
 
 ## References
